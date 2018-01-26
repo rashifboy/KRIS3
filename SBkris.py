@@ -39,16 +39,6 @@ helpmsg ="""
 ║ line://ti/p/~krissthea
 ╠═════════════
 ║╔════════════
-║╠❂➣facebook
-║╠❂➣Youtube
-║╠❂➣Yt
-║╠❂➣Music
-║╠❂➣google (text)
-║╠❂➣playstore (text)
-║╠❂➣instagram (username)
-║╠❂➣wikipedia (text)
-║╠❂➣image (text)
-║╠❂➣lirik (text)
 ║╠❂➣Cipok
 ║╠❂➣Gcreator
 ║╠❂➣idline (text)
@@ -285,6 +275,16 @@ helptranslate ="""
 ║ line://ti/p/~krissthea
 ╠═════════════
 ║╔════════════
+║╠❂➣facebook
+║╠❂➣Youtube
+║╠❂➣Yt
+║╠❂➣Music
+║╠❂➣google (text)
+║╠❂➣playstore (text)
+║╠❂➣instagram (username)
+║╠❂➣wikipedia (text)
+║╠❂➣image (text)
+║╠❂➣lirik (text)
 ║╠❂➣Translate-id
 ║╠❂➣Translate-en
 ║╠❂➣Translate-ar
