@@ -14,7 +14,7 @@ from googletrans import Translator
 
 
 cl = LINETCR.LINE()
-cl.login(token='EtKVKaLOg2RyfIoWacc3.4HaFUBefOJqDtvewnAeJuW.PejTsCLOqMq2weGq5QtKQn4h+WKDkzDfYIYf+jfGIYY=')
+cl.login(token='Et0xHE0svii9QXdMmde3.4HaFUBefOJqDtvewnAeJuW.gsLfaWMKY6FIg6zXc+Jvp4SPP2fIWoysyLJPn7HCyhU=')
 #cl.login(qr=True)
 cl.loginResult()
 
@@ -105,7 +105,7 @@ wait = {
     'timeline':False,
     'autoAdd':True,
     "lang":"JP",
-    "comment":"Auto like by :❂Rs͜͡F➣\nAdd siapa tau jodoh\nhttp://line.me/ti/p/~rsf.22 ",
+    "comment":"Auto like by :❂Rs͜͡F➣",
     "commentOn":True,
     "commentBlack":{},
     "wblack":False,
