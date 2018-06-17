@@ -14,7 +14,7 @@ from googletrans import Translator
 
 
 cl = KRIS.LINE()
-cl.login(token='Etkf7kiePrmAuC0Vrno3.4HaFUBefOJqDtvewnAeJuW.MA4GNQEQouvLUWR+Y8djabsxtvSS4t0sorRC1yLrME4=')
+cl.login(token='EtXNKAGO48Ixg0codxu3.4HaFUBefOJqDtvewnAeJuW.74nLdu5DWLvO/u50qfS4m7C1hMBnS/3XrFlsMNnwfG4=')
 #cl.login(qr=True)
 cl.loginResult()
 
