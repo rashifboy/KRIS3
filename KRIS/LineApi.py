@@ -43,9 +43,9 @@ class LINE:
     self.authToken = self.Talk.authToken
     self.cert = self.Talk.cert
     self._headers = {
-              'X-Line-Application': 'DESKTOPMAC \ t9.0.3Bot-Eater \ t17.09', 
+              'X-Line-Application': 'DESKTOPMAC 10.13.2 BotEater x64', 
               'X-Line-Access': self.authToken, 
-              'User-Agent': 'DESKTOPMAC 10.13.2 BotEater x64'
+              'User-Agent': 'DESKTOPMAC \ t9.0.3Bot-Eater \ t17.09'
    }
     self.Poll = Poll(self.authToken)
     self.channel = channel.Channel(self.authToken)
