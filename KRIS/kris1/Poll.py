@@ -19,7 +19,7 @@ class Poll:
   port = 443;
 
   UA = "DESKTOPMAC \ t9.0.3Bot-Eater \ t17.09"
-  LA = "DESKTOPMAC 10.13.2 BotEater x64
+  LA = "DESKTOPMAC 10.13.2 BotEater x64"
   rev = 0
 
   def __init__(self, authToken):
